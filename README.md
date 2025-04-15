@@ -1,1 +1,7 @@
-# feb-2025-Javasjcript-events-and-basic-interactivity
+# feb-2025-Javascript-events-and-basic-interactivity
+
+You will create a functional webpage that demonstrates the following JavaScript concepts:
+
+Use event listeners effectively.
+Implement form validation.
+Add interactive elements.
